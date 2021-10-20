@@ -1,0 +1,4 @@
+catboost_info/
+processed_dataset/
+test_predict/
+validate_predict/
